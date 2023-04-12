@@ -1,25 +1,25 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - *Crewmates*
 
-Submitted by: **Your Name Here**
+Submitted by: **He Zhou**
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **A create form allows users to add new cremates**
-- [ ] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
-- [ ] **The site displays a summary page of all the user's added crewmates**
-- [ ] **A previously created crewmate can be updated and deleted from the crewmate list**
-- [ ] **Each crewmate has a direct, unique link to an info page about them**
+- [x] **A create form allows users to add new crewmates**
+- [x] **Users can name the crewmate and set the crewmate's attributes by clicking on one of several values**
+- [x] **The site displays a summary page of all the user's added crewmates**
+- [x] **A previously created crewmate can be updated and deleted from the crewmate list**
+- [x] **Each crewmate has a direct, unique link to an info page about them**
 
 The following **optional** features are implemented:
 
 - [ ] A crewmate can be given a category upon creation which restricts their attributes
-- [ ] The site displays summary statistics about a user's crew on their crew page 
+- [x] The site displays summary statistics about a user's crew on their crew page 
 - [ ] The site displays a custom "success" metric about a user's crew which changes the look of the crewmate list
 
 The following **additional** features are implemented:
@@ -30,14 +30,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Chrome Capture](https://chrome.google.com/webstore/detail/chrome-capture-screenshot/ggaabchcecdbomdcnbahdfddfikjmphe?hl=en)
 
 ## Notes
 
